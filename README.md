@@ -1,4 +1,4 @@
-# Predicting-Avocado-prices
+# AvoForesight
 
 * Predict Future Product Prices using Facebook Prophet.
 * Implemented Time Series Forecasting Model.
